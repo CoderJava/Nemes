@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nemes</string>
+    <string name="your_device_name">Your device name</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="status_connection_s">Status Connection: %s</string>
+    <string name="create_room">Create Room</string>
+    <string name="stop_room">Stop Room</string>
+    <string name="discovery_room">Discovery room</string>
+    <string name="devices">Devices</string>
+    <string name="device_name">Device name</string>
+    <string name="service_id">Service ID</string>
+    <string name="device_status">Device status</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_connecting">Connecting</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="error_occured">Error occurred</string>
+    <string name="reset_connection">Reset Connection</string>
+</resources>

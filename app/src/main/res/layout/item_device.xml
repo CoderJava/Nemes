@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_layout_root_item_device"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_8dp"
+    android:paddingTop="@dimen/margin_8dp">
+
+    <TextView
+        android:id="@+id/text_view_device_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/device_name" />
+
+    <TextView
+        android:id="@+id/text_view_service_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/service_id" />
+
+    <TextView
+        android:id="@+id/text_view_device_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/device_status"
+        android:textStyle="italic" />
+
+</LinearLayout>
